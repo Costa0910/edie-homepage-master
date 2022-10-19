@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Costa0910/edie-homepage-master/blob/main/screenshot/Screenshot%202022-10-19%20at%2011.38.17.png)
 
 ### Built With
 
