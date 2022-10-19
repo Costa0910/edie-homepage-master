@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://costa0910-edie-homepage-master.netlify.app/">
+    <a href="https://costa0910-edie-homepage-master.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Costa0910/edie-homepage-master">
+    <a href="https://github.com/Costa0910/edie-homepage-master" target="_blank">
       Solution
     </a>
     <span> | </span>
