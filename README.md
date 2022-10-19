@@ -59,7 +59,7 @@ $ git clone https://github.com/Costa0910/edie-homepage-master
 
 ## Acknowledgements
 
-- Steps to replicate a design with given frame / figma
+- How to replicate given frame / figma to functional website
 
 ## Contact
 
